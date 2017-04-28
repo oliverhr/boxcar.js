@@ -1,0 +1,28 @@
+{
+  "name": "boxcar.js",
+  "version": "0.0.0",
+  "description": "Nodejs publisher implementation for Boxcar.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oliverhr/boxcar.js.git"
+  },
+  "keywords": [
+    "push",
+    "notifications",
+    "boxcar"
+  ],
+  "author": "Oliver H. Rangel <twitter@oliverhr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverhr/boxcar.js/issues"
+  },
+  "homepage": "https://github.com/oliverhr/boxcar.js#readme",
+  "dependencies": {
+    "debug": "^2.6.5",
+    "lodash": "^4.17.4"
+  }
+}
